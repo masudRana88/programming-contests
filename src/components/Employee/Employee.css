@@ -1,8 +1,10 @@
+
 .empoloyee:hover{
     transform: scale(0.98);
 }
 .empolpyee-body{
     padding: 10px;
+    background-image: linear-gradient( #b3b3ff, gainsboro);
 }
 .card-img{
     width: 150px;
