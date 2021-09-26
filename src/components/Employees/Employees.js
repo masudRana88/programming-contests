@@ -36,7 +36,7 @@ const Employees = () => {
                 </div>
             </div>
             <div className="add-member">
-                <AddMembers key={members.map(member=> member.id)} members={members}></AddMembers>
+                <AddMembers members={members}></AddMembers>
             </div>
         </div>
     );
