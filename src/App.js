@@ -5,7 +5,7 @@ import Employees from './components/Employees/Employees';
 
 function App() {
   return (
-    <div>
+    <div className="body">
       <Header></Header>
       <Employees></Employees>
     </div>

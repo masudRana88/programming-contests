@@ -1,9 +1,12 @@
 .my-header{
-    background-color: aqua;
+    background-image: linear-gradient( #b3b3ff, gainsboro);
+    
     padding: 20px 0px;
     border-radius: 0px 0px 20px 20px;
 }
+.company-name{
+    font-weight: 700;
+}
 .text-heighlight{
-    color: #ff3300
-    ;
+    color: #ff751a;
 }
